@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mishan thapa kshetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishan thapa kshetri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mishan-thapa-kshetri-645bb622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishan thapa kshetri" height="30" width="40" /></a>
 <a href="https://fb.com/mishan thapa kshetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mishan thapa kshetri" height="30" width="40" /></a>
-<a href="https://instagram.com/thapa_mishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thapa_mishan" height="30" width="40" /></a>
+<a href="https://instagram.com/maximus_ici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thapa_mishan" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/47p8FRkx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/47p8FRkx" height="30" width="40" /></a>
 </p>
 
